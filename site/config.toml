@@ -1,19 +1,10 @@
-# baseurl = "/"
-# languageCode = "en-us"
-# languageLang = "en"
-# title = "My new Victor-Hugo site"
-
-# # RSS, categories and tags disabled for an easy start
-# # See configuration options for more details: 
-# # https://gohugo.io/getting-started/configuration/#toml-configuration
-# disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 # # Site settings
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Clicking into Clojure"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-125140778-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
@@ -28,8 +19,8 @@ hasCJKLanguage = false
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = false
-	disqusShortname = "your_disqus_short_name"
+	enableDisqus = true
+	disqusShortname = "joshuahorwitz"
 
 
 	enableSummary = true
@@ -37,7 +28,7 @@ hasCJKLanguage = false
 	useDescriptionReplaceSummary = false
 
 
-	enableGoogleAnalytics = false
+	enableGoogleAnalytics = true
 	enableBaiduAnalytics = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
