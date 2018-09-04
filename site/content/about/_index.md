@@ -1,15 +1,25 @@
 +++
-date = "2015-06-20T14:02:37+02:00"
+date = "2018-09-03T14:02:37+02:00"
 title = "About"
 hidden = true
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
+Full Stack Software Engineer
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Ann Arbor, MI
 
 ---
 
-### Lorem ipsum dolor.
+### Languages
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+Clojurescript && Clojure
+
+Javascript && Node
+
+Pony
+
+### Teams
+
+Ponylang
+
+Cljdoc
