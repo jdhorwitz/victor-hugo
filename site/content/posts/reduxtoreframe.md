@@ -89,3 +89,7 @@ I dare you once using a repl for front end development not want to use it exclus
 Thanks for reading, hope you enjoy Clojurescript and Re-Frame as much as I do.
 
 Any questions/corrections please let me know!
+
+### Part 2
+
+Stay tuned, in the next post I will show some detailed code examples in both React/Redux and Re-Frame which will allow you to see in code the similarities as well as the differences.
